@@ -8,4 +8,4 @@ This is a place for me to keep track of quotes and thoughts from books I'm readi
 
 ## Inspirational Books: 
 
-    - Think and grow rich by Napoleon Hill Compiled by Ross Cornwall 
+    - Think and Grow Rich! by Napoleon Hill Compiled by Ross Cornwall 
