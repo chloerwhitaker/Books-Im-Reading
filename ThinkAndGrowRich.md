@@ -10,4 +10,4 @@
 
 ## Introduction 
 
-- "Thruly, thought are things."
+- "Thruly, thoughts are things."
