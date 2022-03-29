@@ -15,3 +15,6 @@
     - "Making a choice that is 1 percent better or worse seems insignificant in the moment, but over the span of moments that make up a lifetime these choices determine the difference between who you are and who you could be. Success is the product of daily habits_ not a once-in-a-lifetime transformation." 
     - "Your outcomes are a lagging measure of your habits." 
     - Summarixed: Don't set goals to produce change - change your system instead. A goal has both winners and losers, but a winning systemn is what helps a person to succeed at their goals. 
+    - "You do not rise to the level of your goals. You fall to the level of your systems." 
+
+## Chapter 2  
