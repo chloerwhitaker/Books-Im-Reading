@@ -9,5 +9,7 @@
 
 ## Chaper 1 - The Surprising Power of Atomic Habits
     - "[they] continued to find 1 percent improvements in overlooked and unexpected areas... As these and hundreds of other small improvements accumulated, the results came faster than anyone could have imagined."
-    - "it is so easy to overestimate the importance of one defining moment and underestimate the value of making small improvements on a daily basis. Too often, we convince ourselves that massive success requires massive action."
-    - "meanwhile, improving by 1 percent isn't particularly notable-sometimes it isn't even noticible-but it can be far more meaningful, especially in the long run." 
+    - "It is so easy to overestimate the importance of one defining moment and underestimate the value of making small improvements on a daily basis. Too often, we convince ourselves that massive success requires massive action."
+    - "Meanwhile, improving by 1 percent isn't particularly notable-sometimes it isn't even noticible-but it can be far more meaningful, especially in the long run." 
+    - "...if you can get 1 percent better each day for one year, you'll end up thirty-seven times better by the time you're done. Conversely, if you get 1 percent worse each day for one year, you'll decline nearly down to zero. What starts as a small win or a minor setback accumulates into something much more. Habits are the compound interest of self-improvement."
+    
