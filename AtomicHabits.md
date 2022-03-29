@@ -12,4 +12,4 @@
     - "It is so easy to overestimate the importance of one defining moment and underestimate the value of making small improvements on a daily basis. Too often, we convince ourselves that massive success requires massive action."
     - "Meanwhile, improving by 1 percent isn't particularly notable-sometimes it isn't even noticible-but it can be far more meaningful, especially in the long run." 
     - "...if you can get 1 percent better each day for one year, you'll end up thirty-seven times better by the time you're done. Conversely, if you get 1 percent worse each day for one year, you'll decline nearly down to zero. What starts as a small win or a minor setback accumulates into something much more. Habits are the compound interest of self-improvement."
-    
+    - "Making a choice that is 1 percent better or worse seems insignificant in the moment, but over the span of moments that make up a lifetime these choices determine the difference between who you are and who you could be. Success is the product of daily habits_ not a once-in-a-lifetime transformation." 
