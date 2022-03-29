@@ -14,4 +14,4 @@
     - "...if you can get 1 percent better each day for one year, you'll end up thirty-seven times better by the time you're done. Conversely, if you get 1 percent worse each day for one year, you'll decline nearly down to zero. What starts as a small win or a minor setback accumulates into something much more. Habits are the compound interest of self-improvement."
     - "Making a choice that is 1 percent better or worse seems insignificant in the moment, but over the span of moments that make up a lifetime these choices determine the difference between who you are and who you could be. Success is the product of daily habits_ not a once-in-a-lifetime transformation." 
     - "Your outcomes are a lagging measure of your habits." 
-    - Summarixed: Don't set goals to produce change - change your system instead. 
+    - Summarixed: Don't set goals to produce change - change your system instead. A goal has both winners and losers, but a winning systemn is what helps a person to succeed at their goals. 
